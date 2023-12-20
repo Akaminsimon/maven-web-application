@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.67.59.186:8081/repository/esther-releases/</url>
+	      <url>http://13.57.246.129:8081/repository/orange-releases/:wq</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.67.59.186:8081/repository/esther-snapshots/</url>
+	      <url>http://13.57.246.129:8081/repository/orange-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
