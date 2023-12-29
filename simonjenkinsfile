@@ -1,7 +1,5 @@
 pipeline{
-  agent{
-  simon1
-  }
+  agent any
   //triggers   
   //options{}
   tools {
