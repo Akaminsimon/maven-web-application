@@ -1,7 +1,7 @@
 pipeline{
-  agent(
+  agent{
   label: 'simon1'
-   )
+  }
   //triggers   
   //options{}
   tools {
