@@ -1,6 +1,6 @@
 pipeline{
   agent{
-  label: 'simon1'
+  simon1
   }
   //triggers   
   //options{}
